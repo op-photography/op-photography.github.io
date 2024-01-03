@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e45e1bb.css",
+    "main.js": "/static/js/main.82143f3f.js",
+    "static/media/cover-video.mp4": "/static/media/cover-video.e22029e4fef992816274.mp4",
+    "static/media/cover-page.jpg": "/static/media/cover-page.bbf85f250af64818c80a.jpg",
+    "static/media/aerial.jpg": "/static/media/aerial.9fb2b8c978f132d245c4.jpg",
+    "static/media/realestate.jpg": "/static/media/realestate.30eeaeaaaf5adcc6981e.jpg",
+    "static/media/events.jpg": "/static/media/events.121b8efa13729155bc3f.jpg",
+    "static/media/product.jpg": "/static/media/product.1106054a8f2bf4a42852.jpg",
+    "static/media/landscape.jpg": "/static/media/landscape.50ab2b322254d47a6f8e.jpg",
+    "static/media/Myself.jpg": "/static/media/Myself.2cec27851bc4a684a432.jpg",
+    "static/media/portraits.jpg": "/static/media/portraits.3231c44c558112aa4064.jpg",
+    "static/media/cover-still.jpg": "/static/media/cover-still.a5f2900232e82c9fce54.jpg",
+    "static/media/photo-editing.jpg": "/static/media/photo-editing.2c24c2ae83212e401757.jpg",
+    "static/media/branding.jpg": "/static/media/branding.66dfd8739e7f28261047.jpg",
+    "static/media/logo.svg": "/static/media/logo.b22b3b64090914c94c8666081d0f52b9.svg",
+    "index.html": "/index.html",
+    "main.3e45e1bb.css.map": "/static/css/main.3e45e1bb.css.map",
+    "main.82143f3f.js.map": "/static/js/main.82143f3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e45e1bb.css",
+    "static/js/main.82143f3f.js"
+  ]
+}
